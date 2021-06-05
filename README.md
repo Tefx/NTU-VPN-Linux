@@ -1,7 +1,7 @@
 # NTU-VPN-Linux
 Connect to NTU VPN on Linux
 
-#Usage
+## Usage
 
 ```shell
 python ntu-vpn.py
